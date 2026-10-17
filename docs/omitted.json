@@ -1,0 +1,71 @@
+[
+  {
+    "id": "S45",
+    "title": "Patent owner's request for Director Review, CrowdStrike IPR2025-00070",
+    "reason": "Party filing on PTACTS, not a USPTO or court decision. Not added. The story already flags the remand institution order as not confirmed from an official order."
+  },
+  {
+    "id": "S48",
+    "title": "PTAB Trial Statistics, September 2026",
+    "reason": "USPTO statistical compilation. Outside the phase-1 document types (statutes, CFR, MPEP, PTAB and Director decisions, federal court opinions, and the notices and Federal Register rules the stories cite as the designation or rule record)."
+  },
+  {
+    "id": "S49",
+    "title": "PTAB Trial Statistics, August 2026",
+    "reason": "USPTO statistical compilation. Same scope limit as S48."
+  },
+  {
+    "id": "S50",
+    "title": "Ex Parte Reexamination Filing Data, September 30, 2025",
+    "reason": "USPTO statistical compilation. Same scope limit as S48."
+  },
+  {
+    "id": "S53",
+    "title": "USPTO Open Data Portal pulls",
+    "reason": "A data portal and a site-made pull, not a single official document."
+  },
+  {
+    "id": "S87",
+    "title": "FDA Orange Book and Purple Book",
+    "reason": "FDA drug-listing databases, outside the patent primary-source types for this library."
+  },
+  {
+    "id": "S89",
+    "title": "Inside Lighting trade report",
+    "reason": "Private trade report, not a government work. Not added. The story already flags the final-written-decision claim as unconfirmed."
+  },
+  {
+    "id": "IPR2025-00070-remand",
+    "title": "CrowdStrike IPR2025-00070 institution on remand",
+    "reason": "No official order was retrieved. The only pointer in the stories is the patent owner's request (S45). Not invented and not added."
+  },
+  {
+    "slug": "ipr2025-01582-paper-11",
+    "title": "Curium US LLC v. Universit\u00e4t Heidelberg",
+    "docket_or_appeal_number": "IPR2025-01582",
+    "paper": "11",
+    "date": "2026-02-25",
+    "precedential_status": "informative",
+    "designation_date": "2026-02-25",
+    "de_designation_date": "",
+    "related_dockets": [],
+    "source_url": "https://www.uspto.gov/sites/default/files/documents/IPR2025_01582_paper_11.pdf",
+    "reason": "Flagged and not added. The counsel block of the official decision names a firm on this library's exclusion list. The decision PDF and any transcription are withheld. Caption, paper, date, and designation status above are taken from the USPTO precedential and informative decisions list."
+  },
+  {
+    "slug": "ipr2025-00464-paper-12",
+    "title": "Padagis US LLC v. Neurelis, Inc",
+    "docket_or_appeal_number": "IPR2025-00464",
+    "paper": "12",
+    "date": "2025-07-16",
+    "precedential_status": "informative",
+    "designation_date": "2026-01-09",
+    "de_designation_date": "",
+    "related_dockets": [
+      "IPR2025-00465",
+      "IPR2025-00466"
+    ],
+    "source_url": "https://www.uspto.gov/sites/default/files/documents/IPR2025_00464_paper_12.pdf",
+    "reason": "Flagged and not added. The counsel block of the official decision names a firm on this library's exclusion list. The decision PDF and any transcription are withheld. Caption, paper, date, and designation status above are taken from the USPTO precedential and informative decisions list."
+  }
+]
