@@ -132,7 +132,159 @@ def document_paths() -> list[Path]:
     return found
 
 
-def check_documents(errors: list[str]) -> dict[str, dict]:
+FEDERAL_CIRCUIT = "U.S. Court of Appeals for the Federal Circuit"
+SELECTION_TESTS = {"N1", "N2", "N3", "N4"}
+CAFC_CONFIG = ROOT / "config" / "cafc-major.yml"
+OMISSION_FIELDS = (
+    "docket_or_appeal_number",
+    "title",
+    "date",
+    "exclusion",
+    "reason",
+)
+
+
+def load_cafc_config(errors: list[str]) -> dict:
+    if not CAFC_CONFIG.is_file():
+        errors.append("config/cafc-major.yml is missing")
+        return {}
+    try:
+        data = yaml.safe_load(CAFC_CONFIG.read_text(encoding="utf-8")) or {}
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"config/cafc-major.yml: {exc}")
+        return {}
+    if not isinstance(data, dict):
+        errors.append("config/cafc-major.yml must be a mapping")
+        return {}
+    scope = data.get("scope") or {}
+    if not (scope.get("in_scope") or []):
+        errors.append("config/cafc-major.yml scope.in_scope is empty")
+    if not (scope.get("out_of_scope") or []):
+        errors.append("config/cafc-major.yml scope.out_of_scope is empty")
+    tests = (data.get("notable_nonprecedential") or {}).get("tests") or {}
+    for key in ("N1", "N2", "N3", "N4"):
+        if key not in tests:
+            errors.append(f"config/cafc-major.yml missing test {key}")
+    if not ((tests.get("N3") or {}).get("issues") or []):
+        errors.append("config/cafc-major.yml N3 needs an issue list")
+    if not (data.get("excluded_unless_on_n4") or []):
+        errors.append("config/cafc-major.yml needs excluded_unless_on_n4")
+    source = data.get("source_of_truth") or {}
+    if not source.get("list_url") or not source.get("earliest_coverage"):
+        errors.append("config/cafc-major.yml source_of_truth needs list_url and earliest_coverage")
+    entries = (tests.get("N4") or {}).get("entries") or []
+    if not isinstance(entries, list):
+        errors.append("config/cafc-major.yml N4 entries must be a list")
+    return data
+
+
+def n4_entries(config: dict) -> list:
+    tests = (config.get("notable_nonprecedential") or {}).get("tests") or {}
+    entries = (tests.get("N4") or {}).get("entries") or []
+    return entries if isinstance(entries, list) else []
+
+
+def check_federal_circuit_opinion(rel: str, meta: dict, errors: list[str], config: dict) -> None:
+    """Federal Circuit docs/courts records are federal-court-opinion documents."""
+    if str(meta.get("court_or_board") or "") != FEDERAL_CIRCUIT:
+        return
+    status = str(meta.get("precedential_status") or "")
+    if status not in {"precedential", "nonprecedential"}:
+        errors.append(
+            f"{rel}: Federal Circuit federal-court-opinion needs precedential_status "
+            "'precedential' or 'nonprecedential'"
+        )
+        return
+    test = str(meta.get("selection_test") or "")
+    evidence = str(meta.get("selection_evidence") or "").strip()
+    if status == "precedential":
+        if test or evidence:
+            errors.append(f"{rel}: a precedential Federal Circuit opinion does not take a selection_test")
+        return
+    if test not in SELECTION_TESTS:
+        errors.append(
+            f"{rel}: nonprecedential Federal Circuit opinion needs selection_test N1, N2, N3, or N4"
+        )
+    if not evidence:
+        errors.append(f"{rel}: nonprecedential Federal Circuit opinion needs selection_evidence")
+        return
+    if test != "N4":
+        return
+    docket = str(meta.get("docket_or_appeal_number") or "")
+    matches = [
+        item
+        for item in n4_entries(config)
+        if isinstance(item, dict) and str(item.get("docket_or_appeal_number") or "") == docket
+    ]
+    if len(matches) != 1:
+        errors.append(f"{rel}: N4 requires one config/cafc-major.yml entry for docket {docket}")
+    elif str(matches[0].get("reason") or "").strip() != evidence:
+        errors.append(f"{rel}: selection_evidence does not match the N4 reason in config/cafc-major.yml")
+
+
+def check_n4_list(errors: list[str], parsed: dict[str, dict], config: dict) -> None:
+    seen: set[str] = set()
+    for item in n4_entries(config):
+        if not isinstance(item, dict):
+            errors.append("config/cafc-major.yml N4 entry must be a mapping")
+            continue
+        docket = str(item.get("docket_or_appeal_number") or "")
+        reason = str(item.get("reason") or "").strip()
+        if not docket or not reason:
+            errors.append("config/cafc-major.yml N4 entry needs docket_or_appeal_number and reason")
+            continue
+        if docket in seen:
+            errors.append(f"config/cafc-major.yml N4 duplicate docket {docket}")
+        seen.add(docket)
+        path = str(item.get("path") or "")
+        if not path:
+            continue
+        meta = parsed.get(path)
+        if meta is None:
+            errors.append(f"config/cafc-major.yml N4 path {path} is not a library document")
+            continue
+        if str(meta.get("docket_or_appeal_number") or "") != docket:
+            errors.append(f"{path}: docket does not match the N4 list")
+        if str(meta.get("selection_test") or "") != "N4":
+            errors.append(f"{path}: listed on the N4 manual list but selection_test is not N4")
+
+
+def check_omitted(errors: list[str]) -> None:
+    path = ROOT / "docs" / "omitted.json"
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"docs/omitted.json: {exc}")
+        return
+    if not isinstance(data, dict):
+        errors.append(
+            "docs/omitted.json must be an object with schema_note, entries, "
+            "and federal_circuit_exclusions"
+        )
+        return
+    if not str(data.get("schema_note") or "").strip():
+        errors.append("docs/omitted.json needs a schema_note")
+    entries = data.get("entries")
+    if not isinstance(entries, list):
+        errors.append("docs/omitted.json entries must be a list")
+    else:
+        for index, item in enumerate(entries):
+            if not isinstance(item, dict) or not str(item.get("reason") or "").strip():
+                errors.append(f"docs/omitted.json entries[{index}] needs a reason")
+    exclusions = data.get("federal_circuit_exclusions")
+    if not isinstance(exclusions, list):
+        errors.append("docs/omitted.json federal_circuit_exclusions must be a list")
+        return
+    for index, item in enumerate(exclusions):
+        if not isinstance(item, dict):
+            errors.append(f"docs/omitted.json federal_circuit_exclusions[{index}] must be an object")
+            continue
+        for key in OMISSION_FIELDS:
+            if not str(item.get(key) or "").strip():
+                errors.append(f"docs/omitted.json federal_circuit_exclusions[{index}] needs {key}")
+
+
+def check_documents(errors: list[str], config: dict) -> dict[str, dict]:
     parsed: dict[str, dict] = {}
     for path in document_paths():
         rel = path.relative_to(ROOT).as_posix()
@@ -174,6 +326,7 @@ def check_documents(errors: list[str]) -> dict[str, dict]:
                 errors.append(f"{rel}: sha256 does not match {original}")
         if meta.get("document_type") == "mpep" and not str(meta.get("mpep_revision") or "").strip():
             errors.append(f"{rel}: MPEP entry needs mpep_revision")
+        check_federal_circuit_opinion(rel, meta, errors, config)
         try:
             linked = jsonld(body)
         except Exception as exc:  # noqa: BLE001
@@ -243,6 +396,8 @@ def check_index(errors: list[str], parsed: dict[str, dict]) -> None:
         "story_cite_match",
         "legacy_release_file",
         "legacy_release_url",
+        "selection_test",
+        "selection_evidence",
     ]
     raw_urls = []
     for path, row in by_path.items():
@@ -291,6 +446,10 @@ def check_index(errors: list[str], parsed: dict[str, dict]) -> None:
         )
         if csv_row.get("cited_by_stories", "") != stories:
             errors.append(f"index.csv cited_by_stories mismatch for {row['path']}")
+        if csv_row.get("selection_test", "") != (row.get("selection_test") or ""):
+            errors.append(f"index.csv selection_test mismatch for {row['path']}")
+        if csv_row.get("selection_evidence", "") != (row.get("selection_evidence") or ""):
+            errors.append(f"index.csv selection_evidence mismatch for {row['path']}")
 
 
 def text_subject_to_name_scan(rel: str, text: str) -> str:
@@ -337,7 +496,10 @@ def check_names(errors: list[str]) -> None:
 
 def main() -> int:
     errors: list[str] = []
-    parsed = check_documents(errors)
+    config = load_cafc_config(errors)
+    parsed = check_documents(errors, config)
+    check_n4_list(errors, parsed, config)
+    check_omitted(errors)
     check_index(errors, parsed)
     check_names(errors)
     if errors:

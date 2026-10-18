@@ -1,0 +1,119 @@
+# Federal Circuit selection definition.
+# A major opinion means every precedential opinion and every precedential
+# order in scope, plus a notable nonprecedential opinion or order.
+# This file states the rule. It does not add opinions.
+
+definition: >
+  A major opinion of the United States Court of Appeals for the Federal
+  Circuit means every precedential opinion and every precedential order
+  in scope, plus a notable nonprecedential opinion or order that meets
+  at least one test below.
+
+scope:
+  in_scope:
+    - >-
+      Patent appeals from the United States Patent and Trademark Office
+      (USPTO), including Patent Trial and Appeal Board (PTAB) trials,
+      ex parte appeals, and reexamination.
+    - >-
+      Precedential petition orders directed to the USPTO. Example: In re
+      Motorola Solutions, No. 25-134.
+  out_of_scope:
+    - Trademark appeals.
+
+precedential:
+  include:
+    - Every precedential opinion in scope.
+    - Every precedential order in scope.
+
+notable_nonprecedential:
+  rule: >
+    Include a nonprecedential opinion or order if any test is met, and
+    record which test in the document metadata.
+  tests:
+    N1:
+      summary: Cited in a later precedential Federal Circuit opinion.
+      evidence: The citing precedential Federal Circuit opinion.
+    N2:
+      summary: >-
+        Cited in a PTAB precedential or informative decision, or in a
+        USPTO memo or notice.
+      evidence: The citing decision, memo, or notice.
+    N3:
+      summary: >-
+        Reverses or vacates the Board, in whole or part, on one of the
+        issues below, confirmed by a reviewer.
+      evidence: The slip disposition, the issue, and the reviewer confirmation.
+      issues:
+        - 35 U.S.C. § 315(b) time bar
+        - 35 U.S.C. § 315(e) or § 325(e) estoppel
+        - 35 U.S.C. § 314 or § 324 institution or discretionary denial
+        - 35 U.S.C. § 325(d)
+        - Real party in interest
+        - Administrative Procedure Act (APA) or due process notice
+        - Claim construction standard
+        - Motion to amend
+        - >-
+          Reexamination substantial new question of patentability, or
+          reexamination estoppel
+    N4:
+      summary: A manual list. Each entry needs a written reason.
+      evidence: The written reason.
+      entries:
+        - docket_or_appeal_number: "25-1038"
+          path: docs/courts/fed-cir-25-1038-piranha-v-hulu/index.md
+          court_list_status: nonprecedential
+          court_list_document_kind: opinion
+          court_list_origin: DCT
+          court_list_release_date: "2026-10-14"
+          court_list_url: https://www.cafc.uscourts.gov/home/case-information/opinions-orders/
+          reason: >-
+            Phase-1 library entry cited by insight story
+            d07-win-101-in-court. The court's opinions and orders list
+            posts appeal 25-1038 as a nonprecedential opinion, origin
+            DCT, released October 14, 2026. The slip says the disposition
+            is nonprecedential and affirms a district-court judgment. It
+            does not reverse or vacate the Patent Trial and Appeal Board.
+            A nonprecedential opinion already in the library stays on the
+            N4 manual list for that written reason.
+        - docket_or_appeal_number: "2026-117"
+          path: docs/courts/fed-cir-26-117-in-re-tessell/index.md
+          court_list_status: nonprecedential
+          court_list_document_kind: order
+          court_list_origin: RIT
+          court_list_release_date: "2026-02-24"
+          court_list_url: https://www.cafc.uscourts.gov/02-24-2026-26-117-in-re-tessell-inc-order-26-117-order-2-24-2026_2652020/
+          reason: >-
+            Phase-1 library entry cited by insight story
+            d13-the-inventors-could-challenge-the-director-could-refuse.
+            The court's opinions and orders list posts appeal 26-117 as a
+            nonprecedential order, origin RIT, released February 24, 2026.
+            The slip says the order is nonprecedential and denies a
+            mandamus petition directed to the United States Patent and
+            Trademark Office. It does not reverse or vacate the Board.
+            Nonprecedential orders are excluded unless they are on the N4
+            list.
+
+excluded_unless_on_n4:
+  - Rule 36 judgments
+  - Errata
+  - Nonprecedential orders
+
+source_of_truth:
+  list_url: https://www.cafc.uscourts.gov/home/case-information/opinions-orders/
+  fields:
+    - precedential status
+    - release date
+    - origin
+  earliest_coverage: October 2004
+  earliest_coverage_note: >-
+    The court's opinions and orders page states that opinions and select
+    orders from October 1, 2004, to the present are posted there.
+    An opinion from before October 2004 comes in only through N4.
+  text: >-
+    Official court portable document format (PDF) files from
+    cafc.uscourts.gov.
+  secondary: >-
+    Third-party or scraped collections, including the CAFC-Revisions data,
+    are secondary and may be used only after that collection's audit gates
+    pass.

@@ -6,6 +6,8 @@ court_or_board: U.S. Court of Appeals for the Federal Circuit
 date: '2026-10-14'
 docket_or_appeal_number: 25-1038
 precedential_status: nonprecedential
+selection_test: "N4"
+selection_evidence: "Phase-1 library entry cited by insight story d07-win-101-in-court. The court's opinions and orders list posts appeal 25-1038 as a nonprecedential opinion, origin DCT, released October 14, 2026. The slip says the disposition is nonprecedential and affirms a district-court judgment. It does not reverse or vacate the Patent Trial and Appeal Board. A nonprecedential opinion already in the library stays on the N4 manual list for that written reason."
 designation_date: ''
 de_designation_date: ''
 topic_tags:
