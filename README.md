@@ -19,11 +19,11 @@ docs/<type>/<slug>/original.pdf | original.html | original.xml
 | Regulations | `docs/cfr/37-cfr-N-NNN/` | 37 C.F.R. Part 42 and §§ 1.501–1.570 |
 | MPEP | `docs/mpep/<slug>/` | The full manual, one section per directory |
 | PTAB and Director decisions | `docs/ptab/<proceeding>-paper-<n>/` | Every precedential and informative decision, with designation and de-designation dates |
-| Federal court opinions | `docs/courts/<court>-<docket>-<slug>/` | Selected Federal Circuit patent opinions |
+| Federal court opinions | `docs/courts/<court>-<docket>-<slug>/` | Major Federal Circuit opinions are every precedential opinion and precedential order in a patent appeal from the United States Patent and Trademark Office (Patent Trial and Appeal Board trials, ex parte appeals, and reexamination) and every precedential petition order directed to that Office, plus a notable nonprecedential opinion or order that meets a recorded test in `config/cafc-major.yml`. |
 | Federal Register | `docs/federal-register/<vol>-fr-<page>/` | Rules the stories cite |
 | USPTO notices | `docs/notices/<slug>/` | Designation notices and the precedential/informative list |
 
-`docs/omitted.json` lists cites that were left out, with the reason.
+`docs/omitted.json` lists cites that were left out, with the reason. `entries` holds those cites. `federal_circuit_exclusions` starts as an empty array for Federal Circuit exclusions under `config/cafc-major.yml`, and `schema_note` names the fields.
 
 ## Repo indexes
 

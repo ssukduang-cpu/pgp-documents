@@ -1,42 +1,53 @@
-[
-  {
-    "id": "S45",
-    "title": "Patent owner's request for Director Review, CrowdStrike IPR2025-00070",
-    "reason": "Party filing on PTACTS, not a USPTO or court decision. Not added. The story already flags the remand institution order as not confirmed from an official order."
-  },
-  {
-    "id": "S48",
-    "title": "PTAB Trial Statistics, September 2026",
-    "reason": "USPTO statistical compilation. Outside the phase-1 document types (statutes, CFR, MPEP, PTAB and Director decisions, federal court opinions, and the notices and Federal Register rules the stories cite as the designation or rule record)."
-  },
-  {
-    "id": "S49",
-    "title": "PTAB Trial Statistics, August 2026",
-    "reason": "USPTO statistical compilation. Same scope limit as S48."
-  },
-  {
-    "id": "S50",
-    "title": "Ex Parte Reexamination Filing Data, September 30, 2025",
-    "reason": "USPTO statistical compilation. Same scope limit as S48."
-  },
-  {
-    "id": "S53",
-    "title": "USPTO Open Data Portal pulls",
-    "reason": "A data portal and a site-made pull, not a single official document."
-  },
-  {
-    "id": "S87",
-    "title": "FDA Orange Book and Purple Book",
-    "reason": "FDA drug-listing databases, outside the patent primary-source types for this library."
-  },
-  {
-    "id": "S89",
-    "title": "Inside Lighting trade report",
-    "reason": "Private trade report, not a government work. Not added. The story already flags the final-written-decision claim as unconfirmed."
-  },
-  {
-    "id": "IPR2025-00070-remand",
-    "title": "CrowdStrike IPR2025-00070 institution on remand",
-    "reason": "No official order was retrieved. The only pointer in the stories is the patent owner's request (S45). Not invented and not added."
-  }
-]
+{
+  "schema_note": "Sources left out of the library, each with a reason. entries keeps cites that were not added. federal_circuit_exclusions records Federal Circuit opinions and orders left out under config/cafc-major.yml, including Rule 36 judgments, errata, nonprecedential orders that are not on the N4 list, trademark appeals, and other out-of-scope decisions. Each exclusion needs docket_or_appeal_number, title, date, exclusion, and reason. federal_circuit_exclusions is empty because this change records the selection definition and does not add or drop opinions.",
+  "federal_circuit_exclusion_fields": [
+    "docket_or_appeal_number",
+    "title",
+    "date",
+    "exclusion",
+    "reason"
+  ],
+  "federal_circuit_exclusions": [],
+  "entries": [
+    {
+      "id": "S45",
+      "title": "Patent owner's request for Director Review, CrowdStrike IPR2025-00070",
+      "reason": "Party filing on PTACTS, not a USPTO or court decision. Not added. The story already flags the remand institution order as not confirmed from an official order."
+    },
+    {
+      "id": "S48",
+      "title": "PTAB Trial Statistics, September 2026",
+      "reason": "USPTO statistical compilation. Outside the phase-1 document types (statutes, CFR, MPEP, PTAB and Director decisions, federal court opinions, and the notices and Federal Register rules the stories cite as the designation or rule record)."
+    },
+    {
+      "id": "S49",
+      "title": "PTAB Trial Statistics, August 2026",
+      "reason": "USPTO statistical compilation. Same scope limit as S48."
+    },
+    {
+      "id": "S50",
+      "title": "Ex Parte Reexamination Filing Data, September 30, 2025",
+      "reason": "USPTO statistical compilation. Same scope limit as S48."
+    },
+    {
+      "id": "S53",
+      "title": "USPTO Open Data Portal pulls",
+      "reason": "A data portal and a site-made pull, not a single official document."
+    },
+    {
+      "id": "S87",
+      "title": "FDA Orange Book and Purple Book",
+      "reason": "FDA drug-listing databases, outside the patent primary-source types for this library."
+    },
+    {
+      "id": "S89",
+      "title": "Inside Lighting trade report",
+      "reason": "Private trade report, not a government work. Not added. The story already flags the final-written-decision claim as unconfirmed."
+    },
+    {
+      "id": "IPR2025-00070-remand",
+      "title": "CrowdStrike IPR2025-00070 institution on remand",
+      "reason": "No official order was retrieved. The only pointer in the stories is the patent owner's request (S45). Not invented and not added."
+    }
+  ]
+}

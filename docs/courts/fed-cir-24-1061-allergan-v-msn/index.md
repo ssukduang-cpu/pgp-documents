@@ -6,6 +6,8 @@ court_or_board: U.S. Court of Appeals for the Federal Circuit
 date: '2024-08-13'
 docket_or_appeal_number: 24-1061
 precedential_status: precedential
+selection_test: ''
+selection_evidence: ''
 designation_date: ''
 de_designation_date: ''
 topic_tags:

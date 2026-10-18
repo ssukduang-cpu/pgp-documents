@@ -6,6 +6,8 @@ court_or_board: U.S. Court of Appeals for the Federal Circuit
 date: '2026-02-24'
 docket_or_appeal_number: 2026-117
 precedential_status: nonprecedential
+selection_test: "N4"
+selection_evidence: "Phase-1 library entry cited by insight story d13-the-inventors-could-challenge-the-director-could-refuse. The court's opinions and orders list posts appeal 26-117 as a nonprecedential order, origin RIT, released February 24, 2026. The slip says the order is nonprecedential and denies a mandamus petition directed to the United States Patent and Trademark Office. It does not reverse or vacate the Board. Nonprecedential orders are excluded unless they are on the N4 list."
 designation_date: ''
 de_designation_date: ''
 topic_tags:
