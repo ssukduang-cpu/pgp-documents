@@ -42,7 +42,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/rpi-dedesignation-2026-02-03/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/rpi-dedesignation-2026-02-03/index.md",
   "isBasedOn": "https://www.uspto.gov/subscription-center/2026/uspto-de-designates-two-decisions-involving-real-party-interest",
   "encoding": {
     "@type": "MediaObject",

@@ -45,7 +45,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01151-paper-38/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01151-paper-38/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/Kokusai%20Electric%20Corp.%20v.%20ASM%20IP%20Holding%20B.V.%2C%20IPR2018-01151%20%28Paper%2038%29.pdf",
   "encoding": {
     "@type": "MediaObject",

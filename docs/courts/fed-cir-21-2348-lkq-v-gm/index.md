@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-21-2348-lkq-v-gm/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-21-2348-lkq-v-gm/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/21-2348.OPINION.5-21-2024_2321050.pdf",
   "encoding": {
     "@type": "MediaObject",

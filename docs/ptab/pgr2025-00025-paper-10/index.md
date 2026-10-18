@@ -47,7 +47,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/pgr2025-00025-paper-10/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/pgr2025-00025-paper-10/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/PGR2025_00025_paper_10.pdf",
   "encoding": {
     "@type": "MediaObject",

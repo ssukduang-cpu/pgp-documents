@@ -43,7 +43,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00224-paper-18/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00224-paper-18/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/Infiltrator%20Water%20Techs%20v%20Presby%20Patent%20Trust%20%20IPR2018-00224%20%20%28Paper%2018%29.pdf",
   "encoding": {
     "@type": "MediaObject",

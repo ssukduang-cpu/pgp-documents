@@ -45,7 +45,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "Supreme Court of the United States"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/scotus-17-1594-return-mail/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/scotus-17-1594-return-mail/index.md",
   "isBasedOn": "https://www.supremecourt.gov/opinions/18pdf/17-1594_1an2.pdf",
   "encoding": {
     "@type": "MediaObject",

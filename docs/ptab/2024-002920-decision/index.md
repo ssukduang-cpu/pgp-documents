@@ -42,7 +42,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/2024-002920-decision/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/2024-002920-decision/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/rh2024-002920_ARP_final.pdf",
   "encoding": {
     "@type": "MediaObject",

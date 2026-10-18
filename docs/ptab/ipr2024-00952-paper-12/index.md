@@ -43,7 +43,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2024-00952-paper-12/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2024-00952-paper-12/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/ipr2024-00952_paper_12_cambridge_v._sfara-informative.pdf",
   "encoding": {
     "@type": "MediaObject",

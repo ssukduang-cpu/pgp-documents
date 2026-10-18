@@ -47,7 +47,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2024-01252-paper-27/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2024-01252-paper-27/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/ipr2024-01252_01253_hulu_v_piranha_media_distribution_paper_27_inform.pdf",
   "encoding": {
     "@type": "MediaObject",

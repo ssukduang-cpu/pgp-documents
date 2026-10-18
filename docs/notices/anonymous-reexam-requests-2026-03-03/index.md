@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/anonymous-reexam-requests-2026-03-03/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/anonymous-reexam-requests-2026-03-03/index.md",
   "isBasedOn": "https://www.uspto.gov/subscription-center/2026/update-regarding-filing-anonymous-requests-ex-parte-reexamination",
   "encoding": {
     "@type": "MediaObject",

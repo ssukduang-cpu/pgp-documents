@@ -73,7 +73,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "Office of the Law Revision Counsel, published by the U.S. Government Publishing Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-321/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-321/index.md",
   "isBasedOn": "https://www.govinfo.gov/content/pkg/USCODE-2024-title35/html/USCODE-2024-title35-partIII-chap32-sec321.htm",
   "encoding": {
     "@type": "MediaObject",

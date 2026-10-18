@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-22-1016-click-to-call-remand/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-22-1016-click-to-call-remand/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/22-1016.OPINION.8-17-2022_1992553.pdf",
   "encoding": {
     "@type": "MediaObject",

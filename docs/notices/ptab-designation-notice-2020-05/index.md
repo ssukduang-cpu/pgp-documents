@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/ptab-designation-notice-2020-05/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/ptab-designation-notice-2020-05/index.md",
   "isBasedOn": "https://www.uspto.gov/subscription-center/2020/ptab-designates-one-decision-precedential-and-de-designates-one-decision",
   "encoding": {
     "@type": "MediaObject",

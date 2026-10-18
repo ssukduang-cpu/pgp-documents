@@ -43,7 +43,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-19-1177-philips-v-google/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-19-1177-philips-v-google/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/19-1177.opinion.1-30-2020_1524001.pdf",
   "encoding": {
     "@type": "MediaObject",

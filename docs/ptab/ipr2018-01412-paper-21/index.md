@@ -42,7 +42,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01412-paper-21/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01412-paper-21/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/DTN%2C%20LLC%20v.%20Farms%20Tech.%2C%20LLC%2C%20IPR2018-01412%20%28Paper%2021%29.pdf",
   "encoding": {
     "@type": "MediaObject",

@@ -45,7 +45,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2017-01917-paper-86/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2017-01917-paper-86/index.md",
   "isBasedOn": "https://www.uspto.gov/patents/ptab/precedential-informative-decisions"
 }
 ```

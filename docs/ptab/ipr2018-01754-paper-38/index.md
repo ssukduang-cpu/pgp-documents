@@ -42,7 +42,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01754-paper-38/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01754-paper-38/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/GoPro%2C%20Inc.%20v.%20360Heros%2C%20Inc.%2C%20Case%20IPR2018-01754%20POP%20decision.pdf",
   "encoding": {
     "@type": "MediaObject",

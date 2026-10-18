@@ -47,7 +47,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "Office of the Federal Register, National Archives and Records Administration"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/federal-register/89-fr-76421/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/federal-register/89-fr-76421/index.md",
   "isBasedOn": "https://www.govinfo.gov/content/pkg/FR-2024-09-18/pdf/2024-21134.pdf",
   "encoding": {
     "@type": "MediaObject",

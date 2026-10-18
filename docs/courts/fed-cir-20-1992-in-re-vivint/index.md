@@ -45,7 +45,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-20-1992-in-re-vivint/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-20-1992-in-re-vivint/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/20-1992.opinion.9-29-2021_1841724.pdf",
   "encoding": {
     "@type": "MediaObject",

@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2012-00027-paper-26/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2012-00027-paper-26/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/ip/boards/bpai/decisions/inform/ipr2012-00027_idle_free_system_v_bergstrom_paper_26.pdf",
   "encoding": {
     "@type": "MediaObject",

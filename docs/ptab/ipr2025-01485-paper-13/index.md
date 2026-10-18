@@ -44,7 +44,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01485-paper-13/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01485-paper-13/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/IPR2025-01485_Informative_Stamp.pdf",
   "encoding": {
     "@type": "MediaObject",

@@ -43,7 +43,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-26-117-in-re-tessell/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-26-117-in-re-tessell/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/26-117.ORDER.2-24-2026_2652020.pdf",
   "encoding": {
     "@type": "MediaObject",

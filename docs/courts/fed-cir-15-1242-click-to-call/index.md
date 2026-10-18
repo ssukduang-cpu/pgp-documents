@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-15-1242-click-to-call/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-15-1242-click-to-call/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/15-1242.opinion.8-16-2018.pdf",
   "encoding": {
     "@type": "MediaObject",

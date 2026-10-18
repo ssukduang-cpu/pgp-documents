@@ -3,7 +3,7 @@
   "phase": 1,
   "description": "Primary sources cited by the 30 insight stories on postgrantproceeding.com.",
   "sitemap_host": "raw.githubusercontent.com",
-  "sitemap_branch": "cursor/phase-1-primary-sources-481f",
+  "sitemap_branch": "master",
   "documents": [
     {
       "slug": "37-cfr-1-182",
@@ -41,7 +41,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-1-182/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-1-182/index.md"
     },
     {
       "slug": "37-cfr-1-321",
@@ -87,7 +87,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-1-321/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-1-321/index.md"
     },
     {
       "slug": "37-cfr-1-510",
@@ -125,7 +125,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-1-510/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-1-510/index.md"
     },
     {
       "slug": "37-cfr-42-104",
@@ -163,7 +163,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-104/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-104/index.md"
     },
     {
       "slug": "37-cfr-42-107",
@@ -209,7 +209,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-107/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-107/index.md"
     },
     {
       "slug": "37-cfr-42-121",
@@ -255,7 +255,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-121/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-121/index.md"
     },
     {
       "slug": "37-cfr-42-221",
@@ -297,7 +297,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-221/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-221/index.md"
     },
     {
       "slug": "37-cfr-42-65",
@@ -335,7 +335,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-65/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-65/index.md"
     },
     {
       "slug": "37-cfr-42-73",
@@ -373,7 +373,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-73/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-73/index.md"
     },
     {
       "slug": "fed-cir-15-1242-click-to-call",
@@ -410,7 +410,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-15-1242-click-to-call/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-15-1242-click-to-call/index.md"
     },
     {
       "slug": "fed-cir-17-1525-arista-v-cisco",
@@ -447,7 +447,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-17-1525-arista-v-cisco/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-17-1525-arista-v-cisco/index.md"
     },
     {
       "slug": "fed-cir-19-1177-philips-v-google",
@@ -484,7 +484,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-19-1177-philips-v-google/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-19-1177-philips-v-google/index.md"
     },
     {
       "slug": "fed-cir-20-1992-in-re-vivint",
@@ -525,7 +525,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-20-1992-in-re-vivint/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-20-1992-in-re-vivint/index.md"
     },
     {
       "slug": "fed-cir-21-2348-lkq-v-gm",
@@ -562,7 +562,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-21-2348-lkq-v-gm/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-21-2348-lkq-v-gm/index.md"
     },
     {
       "slug": "fed-cir-22-1016-click-to-call-remand",
@@ -599,7 +599,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-22-1016-click-to-call-remand/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-22-1016-click-to-call-remand/index.md"
     },
     {
       "slug": "fed-cir-24-1061-allergan-v-msn",
@@ -636,7 +636,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-24-1061-allergan-v-msn/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-24-1061-allergan-v-msn/index.md"
     },
     {
       "slug": "fed-cir-25-1038-piranha-v-hulu",
@@ -673,7 +673,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-25-1038-piranha-v-hulu/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-25-1038-piranha-v-hulu/index.md"
     },
     {
       "slug": "fed-cir-26-117-in-re-tessell",
@@ -710,7 +710,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-26-117-in-re-tessell/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-26-117-in-re-tessell/index.md"
     },
     {
       "slug": "scotus-17-1594-return-mail",
@@ -747,7 +747,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/scotus-17-1594-return-mail/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/scotus-17-1594-return-mail/index.md"
     },
     {
       "slug": "scotus-18-916-thryv",
@@ -784,7 +784,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/scotus-18-916-thryv/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/scotus-18-916-thryv/index.md"
     },
     {
       "slug": "89-fr-76421",
@@ -822,7 +822,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/federal-register/89-fr-76421/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/federal-register/89-fr-76421/index.md"
     },
     {
       "slug": "91-fr-46038",
@@ -860,7 +860,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/federal-register/91-fr-46038/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/federal-register/91-fr-46038/index.md"
     },
     {
       "slug": "mpep-2242",
@@ -901,7 +901,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/mpep/mpep-2242/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/mpep/mpep-2242/index.md"
     },
     {
       "slug": "mpep-appendix-l",
@@ -994,7 +994,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/mpep/mpep-appendix-l/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/mpep/mpep-appendix-l/index.md"
     },
     {
       "slug": "mpep-appendix-r",
@@ -1039,7 +1039,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/mpep/mpep-appendix-r/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/mpep/mpep-appendix-r/index.md"
     },
     {
       "slug": "anonymous-reexam-requests-2026-03-03",
@@ -1076,7 +1076,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/anonymous-reexam-requests-2026-03-03/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/anonymous-reexam-requests-2026-03-03/index.md"
     },
     {
       "slug": "director-institution-aia-trials-2025-10-17",
@@ -1121,7 +1121,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/director-institution-aia-trials-2025-10-17/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/director-institution-aia-trials-2025-10-17/index.md"
     },
     {
       "slug": "hunting-titan-dedesignation-2024-10-18",
@@ -1162,7 +1162,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/hunting-titan-dedesignation-2024-10-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/hunting-titan-dedesignation-2024-10-18/index.md"
     },
     {
       "slug": "informative-designations-revvo-tesla-2026-05-13",
@@ -1199,7 +1199,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/informative-designations-revvo-tesla-2026-05-13/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/informative-designations-revvo-tesla-2026-05-13/index.md"
     },
     {
       "slug": "pre-order-snq-2026-04-28",
@@ -1236,7 +1236,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/pre-order-snq-2026-04-28/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/pre-order-snq-2026-04-28/index.md"
     },
     {
       "slug": "ptab-designation-notice-2020-05",
@@ -1277,7 +1277,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/ptab-designation-notice-2020-05/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/ptab-designation-notice-2020-05/index.md"
     },
     {
       "slug": "ptab-precedential-informative-decisions",
@@ -1330,7 +1330,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/ptab-precedential-informative-decisions/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/ptab-precedential-informative-decisions/index.md"
     },
     {
       "slug": "rpi-dedesignation-2026-02-03",
@@ -1367,7 +1367,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/rpi-dedesignation-2026-02-03/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/rpi-dedesignation-2026-02-03/index.md"
     },
     {
       "slug": "2024-000567-decision",
@@ -1404,7 +1404,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-09-26_ptab_2024-000567_ex-parte-desjardins.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-09-26_ptab_2024-000567_ex-parte-desjardins.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/2024-000567-decision/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/2024-000567-decision/index.md"
     },
     {
       "slug": "2024-002920-decision",
@@ -1441,7 +1441,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-08-06_ptab_2024-002920_ex-parte-baurin.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-08-06_ptab_2024-002920_ex-parte-baurin.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/2024-002920-decision/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/2024-002920-decision/index.md"
     },
     {
       "slug": "cbm2014-00035-paper-12",
@@ -1478,7 +1478,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2014-04-25_ptab_cbm2014-00035_paper12_securebuy-llc-v-cardinalcommerce-corp.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2014-04-25_ptab_cbm2014-00035_paper12_securebuy-llc-v-cardinalcommerce-corp.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/cbm2014-00035-paper-12/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/cbm2014-00035-paper-12/index.md"
     },
     {
       "slug": "cbm2016-00091-paper-12",
@@ -1515,7 +1515,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2017-09-28_ptab_cbm2016-00091_paper12_facebook-inc-v-skky-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2017-09-28_ptab_cbm2016-00091_paper12_facebook-inc-v-skky-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/cbm2016-00091-paper-12/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/cbm2016-00091-paper-12/index.md"
     },
     {
       "slug": "ipr2012-00027-paper-26",
@@ -1556,7 +1556,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2012-00027-paper-26/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2012-00027-paper-26/index.md"
     },
     {
       "slug": "ipr2013-00010-paper-20",
@@ -1593,7 +1593,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2013-01-30_ptab_ipr2013-00010_paper20_motorola-mobility-llc-v-patent-of-michael-arnouse.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2013-01-30_ptab_ipr2013-00010_paper20_motorola-mobility-llc-v-patent-of-michael-arnouse.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2013-00010-paper-20/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2013-00010-paper-20/index.md"
     },
     {
       "slug": "ipr2013-00290-paper-18",
@@ -1630,7 +1630,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2013-10-25_ptab_ipr2013-00290_paper18_athena-automation-ltd-v-husky-injection-molding-sys-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2013-10-25_ptab_ipr2013-00290_paper18_athena-automation-ltd-v-husky-injection-molding-sys-ltd.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2013-00290-paper-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2013-00290-paper-18/index.md"
     },
     {
       "slug": "ipr2013-00312-paper-26",
@@ -1671,7 +1671,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2013-00312-paper-26/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2013-00312-paper-26/index.md"
     },
     {
       "slug": "ipr2014-00360-paper-15",
@@ -1708,7 +1708,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2014-06-27_ptab_ipr2014-00360_paper15_amneal-pharmaceuticals-llc-v-endo-pharmaceuticals-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2014-06-27_ptab_ipr2014-00360_paper15_amneal-pharmaceuticals-llc-v-endo-pharmaceuticals-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2014-00360-paper-15/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2014-00360-paper-15/index.md"
     },
     {
       "slug": "ipr2014-00440-paper-68",
@@ -1749,7 +1749,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2015-08-18_ptab_ipr2014-00440_paper68_corning-optical-communications-rf-llc-v-ppc-broadband-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2015-08-18_ptab_ipr2014-00440_paper68_corning-optical-communications-rf-llc-v-ppc-broadband-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2014-00440-paper-68/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2014-00440-paper-68/index.md"
     },
     {
       "slug": "ipr2015-00040-paper-42",
@@ -1790,7 +1790,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2015-00040-paper-42/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2015-00040-paper-42/index.md"
     },
     {
       "slug": "ipr2015-00937-paper-8",
@@ -1827,7 +1827,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2015-09-17_ptab_ipr2015-00937_paper8_lg-elecs-inc-v-mondis-tech-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2015-09-17_ptab_ipr2015-00937_paper8_lg-elecs-inc-v-mondis-tech-ltd.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2015-00937-paper-8/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2015-00937-paper-8/index.md"
     },
     {
       "slug": "ipr2016-00204-paper-19",
@@ -1864,7 +1864,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2016-05-23_ptab_ipr2016-00204_paper19_argentum-pharmaceuticals-llc-v-research-corporation-technolo.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2016-05-23_ptab_ipr2016-00204_paper19_argentum-pharmaceuticals-llc-v-research-corporation-technolo.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2016-00204-paper-19/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2016-00204-paper-19/index.md"
     },
     {
       "slug": "ipr2016-00840-paper-11",
@@ -1901,7 +1901,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2016-10-06_ptab_ipr2016-00840_paper11_seabery-north-america-inc-v-lincoln-global-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2016-10-06_ptab_ipr2016-00840_paper11_seabery-north-america-inc-v-lincoln-global-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2016-00840-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2016-00840-paper-11/index.md"
     },
     {
       "slug": "ipr2017-00491-paper-9",
@@ -1938,7 +1938,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2017-07-06_ptab_ipr2017-00491_paper9_general-electric-co-v-united-techs-corp.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2017-07-06_ptab_ipr2017-00491_paper9_general-electric-co-v-united-techs-corp.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2017-00491-paper-9/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2017-00491-paper-9/index.md"
     },
     {
       "slug": "ipr2017-00948-paper-34",
@@ -1975,7 +1975,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-01-18_ptab_ipr2017-00948_paper34_amazon-com-inc-v-uniloc-luxembourg-s-a.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-01-18_ptab_ipr2017-00948_paper34_amazon-com-inc-v-uniloc-luxembourg-s-a.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2017-00948-paper-34/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2017-00948-paper-34/index.md"
     },
     {
       "slug": "ipr2017-01216-paper-13",
@@ -2012,7 +2012,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2017-09-18_ptab_ipr2017-01216_paper13_luv-n-care-ltd-v-mcginley.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2017-09-18_ptab_ipr2017-01216_paper13_luv-n-care-ltd-v-mcginley.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2017-01216-paper-13/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2017-01216-paper-13/index.md"
     },
     {
       "slug": "ipr2017-01917-paper-86",
@@ -2049,7 +2049,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2017-01917-paper-86/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2017-01917-paper-86/index.md"
     },
     {
       "slug": "ipr2018-00082-paper-13",
@@ -2092,7 +2092,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00082-paper-13/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00082-paper-13/index.md"
     },
     {
       "slug": "ipr2018-00156-paper-11",
@@ -2129,7 +2129,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2018-06-05_ptab_ipr2018-00156_paper11_sandoz-inc-v-abbvie-biotechnology-ltd-iii-c-1.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2018-06-05_ptab_ipr2018-00156_paper11_sandoz-inc-v-abbvie-biotechnology-ltd-iii-c-1.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00156-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00156-paper-11/index.md"
     },
     {
       "slug": "ipr2018-00224-paper-18",
@@ -2166,7 +2166,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2018-10-01_ptab_ipr2018-00224_paper18_infiltrator-water-techs-llc-v-presby-patent-trust.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2018-10-01_ptab_ipr2018-00224_paper18_infiltrator-water-techs-llc-v-presby-patent-trust.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00224-paper-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00224-paper-18/index.md"
     },
     {
       "slug": "ipr2018-00242-paper-9",
@@ -2203,7 +2203,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2018-02-27_ptab_ipr2018-00242_paper9_colas-sols-inc-v-blacklidge-emulsions-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2018-02-27_ptab_ipr2018-00242_paper9_colas-sols-inc-v-blacklidge-emulsions-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00242-paper-9/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00242-paper-9/index.md"
     },
     {
       "slug": "ipr2018-00600-paper-67",
@@ -2240,7 +2240,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00600-paper-67/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00600-paper-67/index.md"
     },
     {
       "slug": "ipr2018-00914-paper-38",
@@ -2277,7 +2277,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00914-paper-38/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00914-paper-38/index.md"
     },
     {
       "slug": "ipr2018-01039-paper-29",
@@ -2314,7 +2314,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-12-20_ptab_ipr2018-01039_paper29_hulu-llc-v-sound-view-innovations-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-12-20_ptab_ipr2018-01039_paper29_hulu-llc-v-sound-view-innovations-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01039-paper-29/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01039-paper-29/index.md"
     },
     {
       "slug": "ipr2018-01129-paper-15",
@@ -2351,7 +2351,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-02-25_ptab_ipr2018-01129_paper15_lectrosonics-inc-v-zaxcom-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-02-25_ptab_ipr2018-01129_paper15_lectrosonics-inc-v-zaxcom-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01129-paper-15/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01129-paper-15/index.md"
     },
     {
       "slug": "ipr2018-01151-paper-38",
@@ -2392,7 +2392,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-08-20_ptab_ipr2018-01151_paper38_kokusai-electric-corporation-v-asm-ip-holding-b-v.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-08-20_ptab_ipr2018-01151_paper38_kokusai-electric-corporation-v-asm-ip-holding-b-v.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01151-paper-38/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01151-paper-38/index.md"
     },
     {
       "slug": "ipr2018-01412-paper-21",
@@ -2429,7 +2429,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-06-14_ptab_ipr2018-01412_paper21_dtn-llc-v-farms-technology-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-06-14_ptab_ipr2018-01412_paper21_dtn-llc-v-farms-technology-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01412-paper-21/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01412-paper-21/index.md"
     },
     {
       "slug": "ipr2018-01511-paper-11",
@@ -2466,7 +2466,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-01-31_ptab_ipr2018-01511_paper11_cisco-systems-inc-v-chrimar-systems-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-01-31_ptab_ipr2018-01511_paper11_cisco-systems-inc-v-chrimar-systems-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01511-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01511-paper-11/index.md"
     },
     {
       "slug": "ipr2018-01754-paper-38",
@@ -2503,7 +2503,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-08-23_ptab_ipr2018-01754_paper38_gopro-inc-v-360heros-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-08-23_ptab_ipr2018-01754_paper38_gopro-inc-v-360heros-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01754-paper-38/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01754-paper-38/index.md"
     },
     {
       "slug": "ipr2019-00064-paper-10",
@@ -2543,7 +2543,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2019-05-01_ptab_ipr2019-00064_paper10_valve-corp-v-elec-scripting-prods-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-05-01_ptab_ipr2019-00064_paper10_valve-corp-v-elec-scripting-prods-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2019-00064-paper-10/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2019-00064-paper-10/index.md"
     },
     {
       "slug": "ipr2019-00849-paper-14",
@@ -2580,7 +2580,7 @@
       "story_cite_match": false,
       "legacy_release_file": "2019-09-06_ptab_ipr2019-00849_paper14_in-depth-geophysical-inc-v-conocophillips-company-i-e.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2019-09-06_ptab_ipr2019-00849_paper14_in-depth-geophysical-inc-v-conocophillips-company-i-e.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2019-00849-paper-14/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2019-00849-paper-14/index.md"
     },
     {
       "slug": "ipr2019-01469-paper-6",
@@ -2617,7 +2617,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2020-02-13_ptab_ipr2019-01469_paper6_advanced-bionics-llc-v-med-el-elektromedizinische-ger-te-gmb.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2020-02-13_ptab_ipr2019-01469_paper6_advanced-bionics-llc-v-med-el-elektromedizinische-ger-te-gmb.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2019-01469-paper-6/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2019-01469-paper-6/index.md"
     },
     {
       "slug": "ipr2020-00734-paper-11",
@@ -2654,7 +2654,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2020-00734-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2020-00734-paper-11/index.md"
     },
     {
       "slug": "ipr2020-00854-paper-9",
@@ -2691,7 +2691,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2020-10-28_ptab_ipr2020-00854_paper9_apple-inc-v-uniloc-2017-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2020-10-28_ptab_ipr2020-00854_paper9_apple-inc-v-uniloc-2017-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2020-00854-paper-9/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2020-00854-paper-9/index.md"
     },
     {
       "slug": "ipr2021-00330-paper-20",
@@ -2732,7 +2732,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2022-01-14_ptab_ipr2021-00330_paper20_toshiba-america-electronic-components-inc-v-monument-peak-ve.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2022-01-14_ptab_ipr2021-00330_paper20_toshiba-america-electronic-components-inc-v-monument-peak-ve.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2021-00330-paper-20/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2021-00330-paper-20/index.md"
     },
     {
       "slug": "ipr2021-01556-paper-13",
@@ -2769,7 +2769,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2022-09-07_ptab_ipr2021-01556_paper13_nxp-usa-inc-v-impinj-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2022-09-07_ptab_ipr2021-01556_paper13_nxp-usa-inc-v-impinj-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2021-01556-paper-13/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2021-01556-paper-13/index.md"
     },
     {
       "slug": "ipr2022-00624-paper-12",
@@ -2806,7 +2806,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2022-00624-paper-12/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2022-00624-paper-12/index.md"
     },
     {
       "slug": "ipr2022-00624-paper-9",
@@ -2843,7 +2843,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2022-08-24_ptab_ipr2022-00624_paper9_xerox-corp-v-bytemark-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2022-08-24_ptab_ipr2022-00624_paper9_xerox-corp-v-bytemark-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2022-00624-paper-9/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2022-00624-paper-9/index.md"
     },
     {
       "slug": "ipr2022-00861-paper-18",
@@ -2882,7 +2882,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2022-08-23_ptab_ipr2022-00861_paper18_code200-uab-v-bright-data-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2022-08-23_ptab_ipr2022-00861_paper18_code200-uab-v-bright-data-ltd.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2022-00861-paper-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2022-00861-paper-18/index.md"
     },
     {
       "slug": "ipr2024-00952-paper-12",
@@ -2919,7 +2919,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2024-12-13_ptab_ipr2024-00952_paper12_cambridge-mobile-telematics-inc-v-sfara-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2024-12-13_ptab_ipr2024-00952_paper12_cambridge-mobile-telematics-inc-v-sfara-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2024-00952-paper-12/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2024-00952-paper-12/index.md"
     },
     {
       "slug": "ipr2024-01252-paper-27",
@@ -2962,7 +2962,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-04-17_ptab_ipr2024-01252_paper27_hulu-llc-v-piranha-media-distribution-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-04-17_ptab_ipr2024-01252_paper27_hulu-llc-v-piranha-media-distribution-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2024-01252-paper-27/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2024-01252-paper-27/index.md"
     },
     {
       "slug": "ipr2025-00068-paper-25",
@@ -3005,7 +3005,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-06-25_ptab_ipr2025-00068_paper25_crowdstrike-inc-v-gosecure-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-06-25_ptab_ipr2025-00068_paper25_crowdstrike-inc-v-gosecure-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00068-paper-25/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00068-paper-25/index.md"
     },
     {
       "slug": "ipr2025-00098-paper-38",
@@ -3044,7 +3044,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-01-15_ptab_ipr2025-00098_paper38_yangtze-memory-technologies-company-ltd-v-micron-technology-.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-01-15_ptab_ipr2025-00098_paper38_yangtze-memory-technologies-company-ltd-v-micron-technology-.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00098-paper-38/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00098-paper-38/index.md"
     },
     {
       "slug": "ipr2025-00217-paper-9",
@@ -3085,7 +3085,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-06-13_ptab_ipr2025-00217_paper9_tesla-inc-v-intellectual-ventures-ii-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-06-13_ptab_ipr2025-00217_paper9_tesla-inc-v-intellectual-ventures-ii-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00217-paper-9/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00217-paper-9/index.md"
     },
     {
       "slug": "ipr2025-00258-paper-16",
@@ -3130,7 +3130,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-06-25_ptab_ipr2025-00258_paper16_elong-int-l-usa-inc-v-feit-electric-co-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-06-25_ptab_ipr2025-00258_paper16_elong-int-l-usa-inc-v-feit-electric-co-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00258-paper-16/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00258-paper-16/index.md"
     },
     {
       "slug": "ipr2025-00260-paper-16",
@@ -3175,7 +3175,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-06-12_ptab_ipr2025-00260_paper16_savant-techs-llc-d-b-a-ge-lighting-v-feit-electric-co-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-06-12_ptab_ipr2025-00260_paper16_savant-techs-llc-d-b-a-ge-lighting-v-feit-electric-co-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00260-paper-16/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00260-paper-16/index.md"
     },
     {
       "slug": "ipr2025-00298-paper-17",
@@ -3212,7 +3212,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00298-paper-17/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00298-paper-17/index.md"
     },
     {
       "slug": "ipr2025-00324-paper-11",
@@ -3259,7 +3259,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-06-25_ptab_ipr2025-00324_paper11_realtek-semiconductor-corp-v-parkervision-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-06-25_ptab_ipr2025-00324_paper11_realtek-semiconductor-corp-v-parkervision-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00324-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00324-paper-11/index.md"
     },
     {
       "slug": "ipr2025-00340-paper-18",
@@ -3296,7 +3296,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-11-05_ptab_ipr2025-00340_paper18_tesla-inc-v-intellectual-ventures-ii-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-11-05_ptab_ipr2025-00340_paper18_tesla-inc-v-intellectual-ventures-ii-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00340-paper-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00340-paper-18/index.md"
     },
     {
       "slug": "ipr2025-00408-paper-21",
@@ -3341,7 +3341,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-06-18_ptab_ipr2025-00408_paper21_dabico-airport-sols-inc-v-axa-power-aps.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-06-18_ptab_ipr2025-00408_paper21_dabico-airport-sols-inc-v-axa-power-aps.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00408-paper-21/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00408-paper-21/index.md"
     },
     {
       "slug": "ipr2025-00454-paper-11",
@@ -3386,7 +3386,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-07-11_ptab_ipr2025-00454_paper11_lifevac-llc-v-dcstar-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-07-11_ptab_ipr2025-00454_paper11_lifevac-llc-v-dcstar-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00454-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00454-paper-11/index.md"
     },
     {
       "slug": "ipr2025-00464-paper-12",
@@ -3434,7 +3434,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-07-16_ptab_ipr2025-00464_paper12_padagis-us-llc-v-neurelis-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-07-16_ptab_ipr2025-00464_paper12_padagis-us-llc-v-neurelis-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00464-paper-12/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00464-paper-12/index.md"
     },
     {
       "slug": "ipr2025-00480-paper-11",
@@ -3479,7 +3479,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-09-04_ptab_ipr2025-00480_paper11_home-depot-u-s-a-inc-v-h2-intellect-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-09-04_ptab_ipr2025-00480_paper11_home-depot-u-s-a-inc-v-h2-intellect-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00480-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00480-paper-11/index.md"
     },
     {
       "slug": "ipr2025-00601-paper-9",
@@ -3527,7 +3527,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-07-24_ptab_ipr2025-00601_paper9_amgen-inc-v-bristol-myers-squibb-co.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-07-24_ptab_ipr2025-00601_paper9_amgen-inc-v-bristol-myers-squibb-co.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00601-paper-9/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00601-paper-9/index.md"
     },
     {
       "slug": "ipr2025-00632-paper-20",
@@ -3564,7 +3564,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00632-paper-20/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00632-paper-20/index.md"
     },
     {
       "slug": "ipr2025-00632-paper-36",
@@ -3601,7 +3601,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00632-paper-36/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00632-paper-36/index.md"
     },
     {
       "slug": "ipr2025-00687-paper-40",
@@ -3642,7 +3642,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-01-12_ptab_ipr2025-00687_paper40_pacificorp-v-birchtech-corp.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-01-12_ptab_ipr2025-00687_paper40_pacificorp-v-birchtech-corp.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00687-paper-40/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00687-paper-40/index.md"
     },
     {
       "slug": "ipr2025-00856-paper-11",
@@ -3687,7 +3687,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-09-05_ptab_ipr2025-00856_paper11_apple-inc-v-ferid-allani.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-09-05_ptab_ipr2025-00856_paper11_apple-inc-v-ferid-allani.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00856-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00856-paper-11/index.md"
     },
     {
       "slug": "ipr2025-00893-paper-18",
@@ -3732,7 +3732,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-09-19_ptab_ipr2025-00893_paper18_sun-pharm-indus-inc-v-nivagen-pharm-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-09-19_ptab_ipr2025-00893_paper18_sun-pharm-indus-inc-v-nivagen-pharm-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00893-paper-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00893-paper-18/index.md"
     },
     {
       "slug": "ipr2025-00950-paper-11",
@@ -3777,7 +3777,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-09-19_ptab_ipr2025-00950_paper11_alliance-laundry-sys-llc-v-payrange-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-09-19_ptab_ipr2025-00950_paper11_alliance-laundry-sys-llc-v-payrange-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00950-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-00950-paper-11/index.md"
     },
     {
       "slug": "ipr2025-01072-paper-30",
@@ -3817,7 +3817,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-06-22_ptab_ipr2025-01072_paper30_light-wonder-inc-v-evolution-malta-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-06-22_ptab_ipr2025-01072_paper30_light-wonder-inc-v-evolution-malta-ltd.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01072-paper-30/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01072-paper-30/index.md"
     },
     {
       "slug": "ipr2025-01342-paper-27",
@@ -3857,7 +3857,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-05-12_ptab_ipr2025-01342_paper27_ford-motor-company-v-autoconnect-holdings-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-05-12_ptab_ipr2025-01342_paper27_ford-motor-company-v-autoconnect-holdings-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01342-paper-27/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01342-paper-27/index.md"
     },
     {
       "slug": "ipr2025-01374-paper-20",
@@ -3896,7 +3896,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-05-12_ptab_ipr2025-01374_paper20_terumo-bct-inc-v-haemonetics-corp.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-05-12_ptab_ipr2025-01374_paper20_terumo-bct-inc-v-haemonetics-corp.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01374-paper-20/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01374-paper-20/index.md"
     },
     {
       "slug": "ipr2025-01395-paper-18",
@@ -3933,7 +3933,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-01-12_ptab_ipr2025-01395_paper18_top-glory-trading-group-inc-v-cole-haan-llc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-01-12_ptab_ipr2025-01395_paper18_top-glory-trading-group-inc-v-cole-haan-llc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01395-paper-18/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01395-paper-18/index.md"
     },
     {
       "slug": "ipr2025-01485-paper-13",
@@ -3970,7 +3970,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-01-16_ptab_ipr2025-01485_paper13_tiktok-inc-v-shopsee-inc.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-01-16_ptab_ipr2025-01485_paper13_tiktok-inc-v-shopsee-inc.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01485-paper-13/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01485-paper-13/index.md"
     },
     {
       "slug": "ipr2025-01579-paper-12",
@@ -4011,7 +4011,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-03-18_ptab_ipr2025-01579_paper12_tianma-microelectronics-co-ltd-v-lg-display-co-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-03-18_ptab_ipr2025-01579_paper12_tianma-microelectronics-co-ltd-v-lg-display-co-ltd.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01579-paper-12/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01579-paper-12/index.md"
     },
     {
       "slug": "ipr2025-01582-paper-11",
@@ -4052,7 +4052,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2026-02-25_ptab_ipr2025-01582_paper11_curium-us-llc-v-universit-t-heidelberg.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-02-25_ptab_ipr2025-01582_paper11_curium-us-llc-v-universit-t-heidelberg.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01582-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2025-01582-paper-11/index.md"
     },
     {
       "slug": "pgr2019-00001-paper-11",
@@ -4089,7 +4089,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/pgr2019-00001-paper-11/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/pgr2019-00001-paper-11/index.md"
     },
     {
       "slug": "pgr2025-00025-paper-10",
@@ -4134,7 +4134,7 @@
       "story_cite_match": true,
       "legacy_release_file": "2025-07-16_ptab_pgr2025-00025_paper10_multi-color-corp-v-brook-whittle-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-07-16_ptab_pgr2025-00025_paper10_multi-color-corp-v-brook-whittle-ltd.pdf",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/pgr2025-00025-paper-10/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/pgr2025-00025-paper-10/index.md"
     },
     {
       "slug": "35-usc-253",
@@ -4228,7 +4228,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-253/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-253/index.md"
     },
     {
       "slug": "35-usc-282",
@@ -4266,7 +4266,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-282/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-282/index.md"
     },
     {
       "slug": "35-usc-303",
@@ -4360,7 +4360,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-303/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-303/index.md"
     },
     {
       "slug": "35-usc-311",
@@ -4454,7 +4454,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-311/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-311/index.md"
     },
     {
       "slug": "35-usc-312",
@@ -4548,7 +4548,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-312/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-312/index.md"
     },
     {
       "slug": "35-usc-313",
@@ -4642,7 +4642,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-313/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-313/index.md"
     },
     {
       "slug": "35-usc-314",
@@ -4736,7 +4736,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-314/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-314/index.md"
     },
     {
       "slug": "35-usc-315",
@@ -4830,7 +4830,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-315/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-315/index.md"
     },
     {
       "slug": "35-usc-316",
@@ -4868,7 +4868,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-316/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-316/index.md"
     },
     {
       "slug": "35-usc-317",
@@ -4962,7 +4962,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-317/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-317/index.md"
     },
     {
       "slug": "35-usc-321",
@@ -5056,7 +5056,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-321/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-321/index.md"
     },
     {
       "slug": "35-usc-322",
@@ -5150,7 +5150,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-322/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-322/index.md"
     },
     {
       "slug": "35-usc-323",
@@ -5244,7 +5244,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-323/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-323/index.md"
     },
     {
       "slug": "35-usc-324",
@@ -5338,7 +5338,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-324/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-324/index.md"
     },
     {
       "slug": "35-usc-325",
@@ -5436,7 +5436,7 @@
       "story_cite_match": true,
       "legacy_release_file": "",
       "legacy_release_url": "",
-      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/statutes/35-usc-325/index.md"
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/statutes/35-usc-325/index.md"
     }
   ]
 }

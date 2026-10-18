@@ -45,7 +45,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2019-00064-paper-10/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2019-00064-paper-10/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/Valve%20Corp.%20v.%20Elec.%20Scripting%20Prods.%20Inc.%20IPR2019-00064%2000065%2000085%20%28Paper%2010%29.pdf",
   "encoding": {
     "@type": "MediaObject",

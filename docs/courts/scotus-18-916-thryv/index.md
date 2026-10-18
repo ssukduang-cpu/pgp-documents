@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "Supreme Court of the United States"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/scotus-18-916-thryv/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/scotus-18-916-thryv/index.md",
   "isBasedOn": "https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf",
   "encoding": {
     "@type": "MediaObject",

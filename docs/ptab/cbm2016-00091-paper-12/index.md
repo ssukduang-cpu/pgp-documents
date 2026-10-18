@@ -43,7 +43,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/cbm2016-00091-paper-12/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/cbm2016-00091-paper-12/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/facebook_inc_v_skky_llc_cbm2016-00091_paper_12_09282017.pdf",
   "encoding": {
     "@type": "MediaObject",

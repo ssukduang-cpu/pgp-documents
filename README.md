@@ -31,7 +31,7 @@ docs/<type>/<slug>/original.pdf | original.html | original.xml
 - `llms.txt` — [llmstxt.org](https://llmstxt.org) layout: an H1, a summary blockquote, and an H2 per document type linking each `index.md`.
 - `sitemap.xml` — one `<loc>` per `index.md`.
 
-GitHub Pages is not enabled for this repository. The sitemap and `llms.txt` therefore use `raw.githubusercontent.com` URLs for the branch named in `index.json` (`sitemap_branch`). After a maintainer merges that branch, those URLs should be pointed at the default branch. This library does not merge itself.
+GitHub Pages is not enabled for this repository. The sitemap, `llms.txt`, and each document's JSON-LD `url` use `raw.githubusercontent.com` URLs on the default branch, `master` (`sitemap_branch` in `index.json`).
 
 ## Provenance
 

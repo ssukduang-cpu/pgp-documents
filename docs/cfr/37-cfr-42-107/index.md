@@ -47,7 +47,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "Office of the Federal Register, National Archives and Records Administration"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/cfr/37-cfr-42-107/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/cfr/37-cfr-42-107/index.md",
   "isBasedOn": "https://www.ecfr.gov/current/title-37/section-42.107",
   "encoding": {
     "@type": "MediaObject",

@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00600-paper-67/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00600-paper-67/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/Hunting%20Titan%20-%20Decision%20on%20POP%20Review%20%28final%29%287-6-2020%29.pdf",
   "encoding": {
     "@type": "MediaObject",

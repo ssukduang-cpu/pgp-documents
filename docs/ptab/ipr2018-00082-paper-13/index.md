@@ -45,7 +45,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-00082-paper-13/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-00082-paper-13/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/IPR2018-00082%20Order%20-%20Information%20and%20Guidance%20on%20Motions%20to%20Amend.pdf",
   "encoding": {
     "@type": "MediaObject",

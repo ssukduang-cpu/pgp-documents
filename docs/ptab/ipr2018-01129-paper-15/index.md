@@ -42,7 +42,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01129-paper-15/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01129-paper-15/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/Lectrosonics%2C%20Inc.%20v.%20Zaxcom%2C%20Inc.%2C%20IPR2018-01129%2C%20-01130%20%28Paper%2015%29.pdf",
   "encoding": {
     "@type": "MediaObject",

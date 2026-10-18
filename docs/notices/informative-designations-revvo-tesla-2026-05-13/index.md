@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/notices/informative-designations-revvo-tesla-2026-05-13/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/notices/informative-designations-revvo-tesla-2026-05-13/index.md",
   "isBasedOn": "https://www.uspto.gov/about-us/news-updates/uspto-designates-informative-three-decisions-applying-offices-revvo-and-tesla",
   "encoding": {
     "@type": "MediaObject",

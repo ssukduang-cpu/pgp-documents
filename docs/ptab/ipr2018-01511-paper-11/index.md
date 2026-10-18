@@ -43,7 +43,7 @@ legacy_release_url: https://github.com/ssukduang-cpu/pgp-documents/releases/down
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2018-01511-paper-11/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/ptab/ipr2018-01511-paper-11/index.md",
   "isBasedOn": "https://www.uspto.gov/sites/default/files/documents/Cisco%20Systems%2C%20Inc.%20v.%20Chrimar%20Systems%2C%20Inc.%2C%20IPR2018-01511%20DDI%20%28Paper%2011%29.pdf",
   "encoding": {
     "@type": "MediaObject",

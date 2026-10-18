@@ -47,7 +47,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "United States Patent and Trademark Office"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/mpep/mpep-2242/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/mpep/mpep-2242/index.md",
   "isBasedOn": "https://www.uspto.gov/web/offices/pac/mpep/s2242.html",
   "encoding": {
     "@type": "MediaObject",

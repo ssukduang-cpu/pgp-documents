@@ -44,7 +44,7 @@ legacy_release_url: ''
     "@type": "Organization",
     "name": "U.S. Court of Appeals for the Federal Circuit"
   },
-  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/courts/fed-cir-24-1061-allergan-v-msn/index.md",
+  "url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/master/docs/courts/fed-cir-24-1061-allergan-v-msn/index.md",
   "isBasedOn": "https://www.cafc.uscourts.gov/opinions-orders/24-1061.OPINION.8-13-2024_2366074.pdf",
   "encoding": {
     "@type": "MediaObject",
