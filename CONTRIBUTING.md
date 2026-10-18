@@ -15,7 +15,7 @@ Add a public-record United States government work, or leave it out. Phase 1 is e
 - Client material, firm work product, and law-firm articles.
 - Party filings, including a request for Director Review posted as a party paper.
 - Statistical compilations, data-portal pulls, and commercial or trade-press reports.
-- A decision whose retrieved text contains a name on the exclusion list in `scripts/validate_library.py`. Record the caption, paper, date, and designation in `docs/omitted.json` and do not add the file. Those names are stored as code points. Do not write them into prose, front matter, or notes.
+- A name on the exclusion list in `scripts/validate_library.py`, outside the two unedited official records named below. Those names are stored as code points. Do not write them into prose, front matter, or notes. The scan skips only the official PDF and the verbatim transcription under `## Text` for `docs/ptab/ipr2025-01582-paper-11` and `docs/ptab/ipr2025-00464-paper-12`. Front matter of those entries, and every other file, is still scanned.
 
 The validator removes only these repository URL prefixes before it scans, and it does not ignore the same letters in ordinary prose:
 

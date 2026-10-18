@@ -38,34 +38,5 @@
     "id": "IPR2025-00070-remand",
     "title": "CrowdStrike IPR2025-00070 institution on remand",
     "reason": "No official order was retrieved. The only pointer in the stories is the patent owner's request (S45). Not invented and not added."
-  },
-  {
-    "slug": "ipr2025-01582-paper-11",
-    "title": "Curium US LLC v. Universit\u00e4t Heidelberg",
-    "docket_or_appeal_number": "IPR2025-01582",
-    "paper": "11",
-    "date": "2026-02-25",
-    "precedential_status": "informative",
-    "designation_date": "2026-02-25",
-    "de_designation_date": "",
-    "related_dockets": [],
-    "source_url": "https://www.uspto.gov/sites/default/files/documents/IPR2025_01582_paper_11.pdf",
-    "reason": "Flagged and not added. The counsel block of the official decision names a firm on this library's exclusion list. The decision PDF and any transcription are withheld. Caption, paper, date, and designation status above are taken from the USPTO precedential and informative decisions list."
-  },
-  {
-    "slug": "ipr2025-00464-paper-12",
-    "title": "Padagis US LLC v. Neurelis, Inc",
-    "docket_or_appeal_number": "IPR2025-00464",
-    "paper": "12",
-    "date": "2025-07-16",
-    "precedential_status": "informative",
-    "designation_date": "2026-01-09",
-    "de_designation_date": "",
-    "related_dockets": [
-      "IPR2025-00465",
-      "IPR2025-00466"
-    ],
-    "source_url": "https://www.uspto.gov/sites/default/files/documents/IPR2025_00464_paper_12.pdf",
-    "reason": "Flagged and not added. The counsel block of the official decision names a firm on this library's exclusion list. The decision PDF and any transcription are withheld. Caption, paper, date, and designation status above are taken from the USPTO precedential and informative decisions list."
   }
 ]

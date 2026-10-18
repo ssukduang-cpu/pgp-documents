@@ -58,6 +58,17 @@ URL_PREFIXES = [
     "github.com/ssukduang-cpu/pgp-documents",
 ]
 STORY_URL = "https://postgrantproceeding.com/insights/{slug}"
+# Official public records kept unedited. The name scan skips only these PDFs
+# and the verbatim transcription under "## Text" in the matching index.md.
+# Front matter, JSON-LD, notes, and every other file are still scanned.
+VERBATIM_PDFS = {
+    "docs/ptab/ipr2025-01582-paper-11/original.pdf",
+    "docs/ptab/ipr2025-00464-paper-12/original.pdf",
+}
+VERBATIM_INDEXES = {
+    "docs/ptab/ipr2025-01582-paper-11/index.md",
+    "docs/ptab/ipr2025-00464-paper-12/index.md",
+}
 
 
 def _tok(*codes: int) -> str:
@@ -282,6 +293,18 @@ def check_index(errors: list[str], parsed: dict[str, dict]) -> None:
             errors.append(f"index.csv cited_by_stories mismatch for {row['path']}")
 
 
+def text_subject_to_name_scan(rel: str, text: str) -> str:
+    if rel in VERBATIM_PDFS:
+        return ""
+    if rel in VERBATIM_INDEXES:
+        marker = "\n## Text\n"
+        cut = text.find(marker)
+        if cut < 0:
+            return text
+        return text[:cut]
+    return text
+
+
 def check_names(errors: list[str]) -> None:
     for path in ROOT.rglob("*"):
         if not path.is_file():
@@ -294,6 +317,8 @@ def check_names(errors: list[str]) -> None:
         if suffix in TEXT_EXT:
             text = path.read_text(encoding="utf-8", errors="replace")
         elif suffix == ".pdf":
+            if rel in VERBATIM_PDFS:
+                continue
             proc = subprocess.run(
                 ["pdftotext", "-q", str(path), "-"],
                 capture_output=True,
@@ -305,7 +330,8 @@ def check_names(errors: list[str]) -> None:
             text = proc.stdout.decode("utf-8", "replace")
         else:
             continue
-        if BANNED.search(strip_repo_urls(text)):
+        text = text_subject_to_name_scan(rel, text)
+        if text and BANNED.search(strip_repo_urls(text)):
             errors.append(f"{rel}: exclusion-list name in content")
 
 

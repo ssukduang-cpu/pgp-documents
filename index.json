@@ -3389,6 +3389,54 @@
       "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00454-paper-11/index.md"
     },
     {
+      "slug": "ipr2025-00464-paper-12",
+      "document_type": "ptab",
+      "path": "docs/ptab/ipr2025-00464-paper-12/index.md",
+      "title": "Padagis US LLC v. Neurelis, Inc",
+      "citation": "Padagis US LLC v. Neurelis, Inc, IPR2025-00464, Paper 12, 2025-07-16 (informative; designated 2026-01-09)",
+      "court_or_board": "USPTO Director",
+      "date": "2025-07-16",
+      "docket_or_appeal_number": "IPR2025-00464",
+      "paper": "12",
+      "related_dockets": [
+        "IPR2025-00465",
+        "IPR2025-00466"
+      ],
+      "precedential_status": "informative",
+      "designation_scope": "",
+      "designation_date": "2026-01-09",
+      "de_designation_date": "",
+      "topic_tags": [
+        "Institution, 35 U.S.C. § 314(a)"
+      ],
+      "source_url": "https://www.uspto.gov/sites/default/files/documents/IPR2025_00464_paper_12.pdf",
+      "retrieved_on": "2026-10-18",
+      "sha256": "2f29a929b11f7aae4cf60117f034c7e117e2242adb77b95b6cc49df11ee0e923",
+      "original_file": "original.pdf",
+      "cited_by_stories": [
+        {
+          "slug": "d02-past-the-director-is-not-past-the-board",
+          "url": "https://postgrantproceeding.com/insights/d02-past-the-director-is-not-past-the-board"
+        },
+        {
+          "slug": "d18-thirteen-rulings-thirteen-deciding-facts",
+          "url": "https://postgrantproceeding.com/insights/d18-thirteen-rulings-thirteen-deciding-facts"
+        },
+        {
+          "slug": "d19-the-same-statute-opened-one-door-and-closed-eighteen",
+          "url": "https://postgrantproceeding.com/insights/d19-the-same-statute-opened-one-door-and-closed-eighteen"
+        }
+      ],
+      "mpep_revision": "",
+      "confirmation_status": "confirmed",
+      "confirmation_note": "",
+      "story_cite": "Padagis US LLC v. Neurelis, Inc., No. IPR2025-00464, Paper 12 (USPTO Director July 16, 2025), also covering IPR2025-00465 and -00466 (informative, designated Jan. 9, 2026)",
+      "story_cite_match": true,
+      "legacy_release_file": "2025-07-16_ptab_ipr2025-00464_paper12_padagis-us-llc-v-neurelis-inc.pdf",
+      "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2025-07-16_ptab_ipr2025-00464_paper12_padagis-us-llc-v-neurelis-inc.pdf",
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-00464-paper-12/index.md"
+    },
+    {
       "slug": "ipr2025-00480-paper-11",
       "document_type": "ptab",
       "path": "docs/ptab/ipr2025-00480-paper-11/index.md",
@@ -3964,6 +4012,47 @@
       "legacy_release_file": "2026-03-18_ptab_ipr2025-01579_paper12_tianma-microelectronics-co-ltd-v-lg-display-co-ltd.pdf",
       "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-03-18_ptab_ipr2025-01579_paper12_tianma-microelectronics-co-ltd-v-lg-display-co-ltd.pdf",
       "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01579-paper-12/index.md"
+    },
+    {
+      "slug": "ipr2025-01582-paper-11",
+      "document_type": "ptab",
+      "path": "docs/ptab/ipr2025-01582-paper-11/index.md",
+      "title": "Curium US LLC v. Universität Heidelberg",
+      "citation": "Curium US LLC v. Universität Heidelberg, IPR2025-01582, Paper 11, 2026-02-25 (informative; designated 2026-02-25)",
+      "court_or_board": "USPTO Director",
+      "date": "2026-02-25",
+      "docket_or_appeal_number": "IPR2025-01582",
+      "paper": "11",
+      "related_dockets": [],
+      "precedential_status": "informative",
+      "designation_scope": "",
+      "designation_date": "2026-02-25",
+      "de_designation_date": "",
+      "topic_tags": [
+        "Real parties in interest, 35 U.S.C. §§ 312(a)(2), 322(a)(2)"
+      ],
+      "source_url": "https://www.uspto.gov/sites/default/files/documents/IPR2025_01582_paper_11.pdf",
+      "retrieved_on": "2026-10-18",
+      "sha256": "619396027a5dcb30ccf55846150a82a403e7176f668cff7fce9e15da7cbc2cb1",
+      "original_file": "original.pdf",
+      "cited_by_stories": [
+        {
+          "slug": "d08-a-foreign-government-cant-petition-prove-you-arent-one",
+          "url": "https://postgrantproceeding.com/insights/d08-a-foreign-government-cant-petition-prove-you-arent-one"
+        },
+        {
+          "slug": "d20-the-precedent-in-your-template-may-have-retired",
+          "url": "https://postgrantproceeding.com/insights/d20-the-precedent-in-your-template-may-have-retired"
+        }
+      ],
+      "mpep_revision": "",
+      "confirmation_status": "confirmed",
+      "confirmation_note": "",
+      "story_cite": "Curium US LLC v. Universität Heidelberg, No. IPR2025-01582, Paper 11 (USPTO Director February 25, 2026) (informative, designated Feb. 25, 2026)",
+      "story_cite_match": true,
+      "legacy_release_file": "2026-02-25_ptab_ipr2025-01582_paper11_curium-us-llc-v-universit-t-heidelberg.pdf",
+      "legacy_release_url": "https://github.com/ssukduang-cpu/pgp-documents/releases/download/batch-2026-10-14/2026-02-25_ptab_ipr2025-01582_paper11_curium-us-llc-v-universit-t-heidelberg.pdf",
+      "raw_url": "https://raw.githubusercontent.com/ssukduang-cpu/pgp-documents/cursor/phase-1-primary-sources-481f/docs/ptab/ipr2025-01582-paper-11/index.md"
     },
     {
       "slug": "pgr2019-00001-paper-11",
